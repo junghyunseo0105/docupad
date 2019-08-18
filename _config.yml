@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Docupad"
+title                    : "# Docupad"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "junghyunseo"
@@ -110,8 +110,7 @@ analytics:
 author:
   name             : "jungyunseo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  email            : "junghyunseo0105@gmail.com"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
