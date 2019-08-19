@@ -1,6 +1,6 @@
 ---
 title: "firebase"
 layout: category-firebase
-permalink: categories/FIREBASE
-author_profile: false
+permalink: categories/firebase
+author_profile: true
 ---
