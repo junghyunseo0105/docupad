@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "junghyunseo"
-  avatar           : "https://user-images.githubusercontent.com/48713654/63232291-7611b900-c261-11e9-81f2-3a4d538325fe.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   
   links:
     - label: "Email"
