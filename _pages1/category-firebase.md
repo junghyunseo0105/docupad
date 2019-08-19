@@ -1,6 +1,6 @@
 ---
-title: "firebase"
+title: "Firebase"
 layout: category-firebase
 permalink: categories/firebase
-author_profile: true
+author_profile: false
 ---
