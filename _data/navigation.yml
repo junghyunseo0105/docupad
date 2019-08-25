@@ -6,8 +6,8 @@ main:
     url: categories/algorithm
   - title: "raspberry"
     url: categories/raspberry
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "검색하기"
+    url: /_posts/2019-08-19-search.md/
   # - title: "Sitemap"
   #   url: /sitemap/
 
