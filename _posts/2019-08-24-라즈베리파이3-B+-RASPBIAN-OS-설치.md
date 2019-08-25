@@ -1,7 +1,7 @@
 ---
 title: "라즈베리파이3 B+ RASPBIAN OS 설치"
 layout: single
-category: algorithm
+category: raspberry
 toc: true
 toc_label: "목차"
 toc_icon: "cog"
