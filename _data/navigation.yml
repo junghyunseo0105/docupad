@@ -4,8 +4,8 @@ main:
     url: categories/firebase
   - title: "algorithm"
     url: categories/algorithm
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "raspberry"
+    url: categories/raspberry
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
