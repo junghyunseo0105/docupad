@@ -2,8 +2,8 @@
 main:
   - title: "firebase"
     url: categories/firebase
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "algorithm"
+    url: categories/algorithm
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
