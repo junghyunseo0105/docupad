@@ -6,8 +6,8 @@ main:
     url: categories/algorithm
   - title: "raspberry"
     url: categories/raspberry
-  - title: "pyhton"
-    url: categories/pyhton
+  - title: "python"
+    url: categories/python
   - title: "검색하기"
     url: /search/
   # - title: "Sitemap"
